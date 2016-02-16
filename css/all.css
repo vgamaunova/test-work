@@ -10,7 +10,7 @@
 }
 @font-face {
     font-family: "Pragmatica";
-    src: url("http://allfont.ru/allfont.css?fonts=pragmatica-cyrillic") format("truetype");
+    src: url("../fonts/pragmatica.ttf") format("truetype");
 }
 @font-face {
     font-family: "Pragmatica Light";
